@@ -18,10 +18,7 @@ Model-wise revenue contribution
 Regional sales comparison
 
 Key Insights
-
-Top 20% models contributed to majority revenue
-
-Q4 showed highest sales spike
+Electic pwered sales showed highest sales spike
 
 Certain regions consistently outperformed others
 
