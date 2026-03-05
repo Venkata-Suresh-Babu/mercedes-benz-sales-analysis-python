@@ -1,26 +1,38 @@
 # mercedes_benz_sales_2020_2025-analysis
+Project Overview
+Analyzed 12,129,513 rows of Mercedes-Benz sales data to uncover revenue trends, top-performing models, and regional distribution.
 
-**Data Source:** Kaggle
+Tools Used
+Python, Pandas, NumPy, Matplotlib, Plotly
 
+Key Analysis Performed
 
-**Data source link:** https://www.kaggle.com/datasets/dhrubangtalukdar/mercedes-global-car-sales-2020-2025
+Data cleaning & preprocessing
 
+Exploratory Data Analysis (EDA)
 
-**Tech stack:** Python, NumPy, Pandas, Matplotlib, ploty, seaborn
+Time-series trend analysis
 
+Model-wise revenue contribution
 
-**Tools:** Google Antigravity IDE
+Regional sales comparison
 
-Using panads accessed the csv file 
-performed data cleaning using pandas, removed duplicates and null values
+Key Insights
 
-**Dataset size:**
+Top 20% models contributed to majority revenue
 
+Q4 showed highest sales spike
 
-**rows:** 12129513
+Certain regions consistently outperformed others
 
+Business Value
+This analysis can help in:
 
-**Columns** 9
+Inventory planning
+
+Targeted marketing
+
+Pricing strategy optimization
 
 **data insights:**
 Top models are: 
